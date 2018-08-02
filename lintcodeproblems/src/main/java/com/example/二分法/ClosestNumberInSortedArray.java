@@ -38,7 +38,7 @@ public class ClosestNumberInSortedArray {
                 start = mid;
             }
         }
-
+        int s = 98;
         if (A[start] == target) {
             return start;
         }
