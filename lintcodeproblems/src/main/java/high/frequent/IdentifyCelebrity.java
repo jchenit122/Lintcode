@@ -38,6 +38,7 @@ public class IdentifyCelebrity {
 //                    ans =i;
 //                }
 //            }
+		int s = 89;
 //            for (int i =0;i<n;i++){
 //                if(i!=ans && knows(ans,i)){
 //                    return -1;
